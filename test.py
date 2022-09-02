@@ -1,2 +1,2 @@
 # Databricks notebook source
-print.ln("test command 2")
+print.ln("test command for master")
