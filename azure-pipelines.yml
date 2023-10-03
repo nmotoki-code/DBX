@@ -9,4 +9,4 @@ steps:
       {
       }
     urlSuffix: 'api/2.0/clusters/list'
-    waitForCompletion: 'false'
+    waitForCompletion: 'true'
