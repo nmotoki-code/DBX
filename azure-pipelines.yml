@@ -8,5 +8,5 @@ steps:
     headers: |
       {
       }
-    urlSuffix: 'api/2.0/clusters/list'
+    urlSuffix: 'api/2.1/jobs/runs/get?run_id=1023731582326422'
     waitForCompletion: 'true'
